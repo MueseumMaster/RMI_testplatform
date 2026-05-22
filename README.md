@@ -186,9 +186,6 @@
         </div>
         <div class="page-indicator" id="pageIndicator">Page 1 / 12</div>
     </div>
-    <div class="edit-hint">
-        ⚡ EDIT PAGES: modify <code>pagesData</code> array inside script → 12 entries (title + html content)
-    </div>
 </div>
 
 <script>
